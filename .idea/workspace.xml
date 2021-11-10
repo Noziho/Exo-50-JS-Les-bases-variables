@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo 2/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 2/app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exo 4/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/exo 4/app.js" afterDir="false" />
-    </list>
+    <list default="true" id="38d37efc-d528-44f1-8dad-c6ad0eaaf9ab" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +43,7 @@
       <updated>1605785252556</updated>
       <workItem from="1605785254971" duration="300000" />
       <workItem from="1636537880277" duration="1823000" />
-      <workItem from="1636540937990" duration="299000" />
+      <workItem from="1636540937990" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="FUll exo">
       <created>1636539709734</created>
@@ -56,7 +52,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636539709734</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="mino changes">
+      <created>1636541264925</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1636541264925</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,6 +79,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="FUll exo" />
-    <option name="LAST_COMMIT_MESSAGE" value="FUll exo" />
+    <MESSAGE value="mino changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="mino changes" />
   </component>
 </project>
