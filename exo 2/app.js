@@ -1,7 +1,6 @@
-let nom = "Doe";
-let prenom = "John";
-let ville = "New-York";
-let result = "nom:" + nom + "prenom:" + prenom + "ville:" + ville;
+let nom = "Nom: Doe";
+let prenom = "Prenom: John";
+let ville = "Ville: New-York";
 
 
-alert(result)
+alert(nom + '\n' + prenom + '\n' +ville)
